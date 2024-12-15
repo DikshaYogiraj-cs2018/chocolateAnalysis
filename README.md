@@ -1,4 +1,4 @@
-# chocolateAnalysis
+# chocolate Analysis using Power BI
 
 Ah, the delicious world of chocolate analysis! 🍫 Imagine a sophisticated process where science meets indulgence.
 
