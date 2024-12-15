@@ -5,6 +5,9 @@ Ah, the delicious world of chocolate analysis! 🍫 Imagine a sophisticated proc
 Chocolate analysis involves a detailed examination of various aspects of chocolate to ensure quality and consistency.
 In essence, chocolate analysis is a meticulous and delectable blend of art and science, ensuring that every bite of chocolate is as delightful as the first!
 Chocolate sales are not just about satisfying sweet cravings; they reflect cultural trends, economic factors, and consumer preferences.
+<br/>
+<br/>
+<img src='chocolate.png' height=500><br>
 
 Here's a detailed analysis based on the provided image of chocolate sales metrics:
 1. Overall Sales Performance:
